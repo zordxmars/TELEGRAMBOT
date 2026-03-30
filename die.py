@@ -3,7 +3,7 @@ import base64
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
-BOT_TOKEN = "8476584692:AAHbpVrcuhDQgxM-ApV7W_DvTpGwOL1sTzc"
+BOT_TOKEN = "8664283727:AAG1EEFyCFFio3ll6qfxHKTMP18Jedq4ZPI"
 GITHUB_TOKEN = "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"
 
 headers = {"Authorization": f"token {GITHUB_TOKEN}"}
